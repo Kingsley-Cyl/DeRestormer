@@ -50,7 +50,7 @@ The testing code will be updated soon.
 | Rain200L    | 41.61    | 0.9901   | [Baidu Netdisk](https://pan.baidu.com/s/1Cycy3MVwNqVN8On8hx-ayQ?pwd=vuw8) (vuw8) |
 | Rain200H    | 32.10    | 0.9343   | [Baidu Netdisk](https://pan.baidu.com/s/1W4Oa9c6C4hpinHOZnTvzTA?pwd=px59) (px59) |
 | DID-Data    | 35.52    | 0.9661   | [Baidu Netdisk](https://pan.baidu.com/s/1DiW8jK2H5i0_04sdygutCg?pwd=4v53) (4v53) |
-| DDN-Data    | 34.43    | 0.9594   | [Baidu Netdisk]() ()                                         |
+| DDN-Data    | 34.43    | 0.9594   | [Baidu Netdisk](https://pan.baidu.com/s/1dHI-MVaBBri5ck8yw3ZChg?pwd=67gj) (67gj) |
 | SPA-Data    | 49.21    | 0.9927   | [Baidu Netdisk](https://pan.baidu.com/s/1jNIDiHG6YXYVgXtFWfe3WQ?pwd=tvuu) (tuvv) |
 
 **Image desnowing**
