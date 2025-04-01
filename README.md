@@ -24,6 +24,10 @@ conda create -n DeRestormer python=3.8
 conda activate DeRestormer
 cd <this repository>
 pip install -r requirements.txt
+
+cd pytorch-gradual-warmup-lr
+python setup.py install
+cd ..
 ```
 
 **Pretrained Weights**
@@ -40,8 +44,8 @@ The testing code will be updated soon.
 
 ## Results
 
-1. *for DID-Data and DDN-Data datasets*: PSNR and SSIM results are computed by using this [Matlab Code]().
-2. *for other datasets*: PSNR and SSIM results are computed by using this [Matlab Code]().
+1. *for DID-Data and DDN-Data datasets*: PSNR and SSIM results are computed by using this [Matlab Code](https://github.com/Kingsley-Cyl/DeRestormer/blob/master/evaluations/Evalution_most/evaluate_PSNR_SSIM.m).
+2. *for other datasets*: PSNR and SSIM results are computed by using this [Matlab Code](https://github.com/Kingsley-Cyl/DeRestormer/blob/master/evaluations/Evaluation_DID-Data_DDN-Data/statistic.m).
 
 **Image deraining**
 
@@ -74,7 +78,7 @@ The testing code will be updated soon.
 | **Dataset** | **PSNR** | **SSIM** | Visual Results                                               |
 | :---------- | :------- | :------- | ------------------------------------------------------------ |
 | GoPro       | 33.51    | 0.972    | [Baidu Netdisk](https://pan.baidu.com/s/1cUG0-5jdf-NHkKFXfcE-3A?pwd=6fj3) (6fj3) |
-| HIDE        | 31.60    | 0.962    | [Baidu Netdisk]() ()                                         |
+| HIDE        | 31.60    | 0.962    | [Baidu Netdisk](https://pan.baidu.com/s/1hBcuwyslklShv8UcC4sgFw?pwd=8vw4) (8vw4) |
 
 ## Acknowledgement
 
